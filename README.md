@@ -1,4 +1,4 @@
-Sample Project
+Time Series and Forecasting Project
 ----------------
 
-This is a sample project to demonstrate git.  All files except this one are blank.
+Forecasting number of International Passengers Flying to USA via foreign carriers over a month using the methods of time series modeling. 
